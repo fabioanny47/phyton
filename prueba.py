@@ -4,5 +4,5 @@ def numeros_variables():
    k=int (input("ingrese valor"))
    while (l < r):
       print("hola peluditos")
-
+      break
 numeros_variables()      
